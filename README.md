@@ -1,1 +1,2 @@
-# rushoo7.github.io
+# Rusho_portfolio
+Rusho_portfolio_template
